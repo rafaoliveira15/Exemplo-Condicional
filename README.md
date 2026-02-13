@@ -9,25 +9,6 @@ O repositório contém dois projetos:
 
 ---
 
-# 📁 Estrutura do Projeto
-
-📦 estruturas-condicionais-js
-│
-├── 📂 exemplo_radar
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── 📂 atv_notas
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── README.md
-│
-└── README.md
-
----
-
 # 🚦 Exemplo 1 – Radar Eletrônico
 
 ## 🎯 Objetivo
